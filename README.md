@@ -1,4 +1,5 @@
-<h1 align="center">Jose Manuel Benitez Ruiz</h1>
+![Header](https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=Jose%20Manuel%20Benitez%20Ruiz&fontSize=42&fontColor=ffffff&color=0:0f766e,100:1f2937&animation=fadeIn)
+
 <p align="center"><strong>Python Developer | Full Stack | Data Science & IA</strong></p>
 
 <p align="center">
@@ -7,13 +8,9 @@
   <a href="mailto:josemanuelbenitezruiz14@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-e7a651?style=for-the-badge" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Jose%20Manuel%20Benitez%20Ruiz&text2=Python%20%7C%20Full%20Stack%20%7C%20Data%20Science%20%26%20IA&width=900&height=320" alt="Banner" />
-</p>
-
 ---
 
-## Perfil
+## Perfil profesional
 
 Desarrollador con experiencia en Python, desarrollo web y movil, automatizacion de procesos con n8n y construccion de APIs REST. Actualmente cursando Master en Data Science & Desarrollo de IA en Evolve Academy.
 
@@ -26,6 +23,11 @@ Desarrollador con experiencia en Python, desarrollo web y movil, automatizacion 
 ## Proyecto destacado
 
 ### Laboro - Control de horas
+
+<p>
+  <img src="https://jose98br.github.io/porfolio/laboro-icon.svg" alt="Laboro logo" width="72" />
+</p>
+
 **Periodo:** Ene 2026 - Feb 2026  
 **Stack:** Flutter, Dart, PDF, CSV, Offline-first
 
@@ -41,7 +43,7 @@ Funciones principales:
 
 ---
 
-## Tech stack (iconos)
+## Tech stack
 
 ### Animated icons
 <p align="left">
@@ -53,7 +55,7 @@ Funciones principales:
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" />
 </p>
 
-### Extra stack badges (Simple Icons)
+### Extra stack badges
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
@@ -75,11 +77,13 @@ Funciones principales:
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose98br&show_icons=true&theme=transparent&locale=es" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose98br&layout=compact&theme=transparent&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose98br&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose98br&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-> Nota: las tarjetas de stats son best-effort en la instancia publica y pueden tener ratelimit puntual.
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=jose98br&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
@@ -117,4 +121,3 @@ Funciones principales:
 <!-- Opcional: WakaTime stats (solo si conectas WakaTime + action)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_WAKATIME)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
