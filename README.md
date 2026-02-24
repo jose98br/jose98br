@@ -7,6 +7,10 @@
   <a href="mailto:josemanuelbenitezruiz14@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-e7a651?style=for-the-badge" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Jose%20Manuel%20Benitez%20Ruiz&text2=Python%20%7C%20Full%20Stack%20%7C%20Data%20Science%20%26%20IA&width=900&height=320" alt="Banner" />
+</p>
+
 ---
 
 ## Perfil
@@ -37,26 +41,45 @@ Funciones principales:
 
 ---
 
-## Stack tecnico
+## Tech stack (iconos)
 
-<table>
-  <tr>
-    <td><strong>Lenguajes</strong></td>
-    <td>Python · JavaScript · TypeScript · SQL · Dart</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks y desarrollo</strong></td>
-    <td>Flutter · Django · Flask · Node.js · Express · Prisma ORM</td>
-  </tr>
-  <tr>
-    <td><strong>Data e IA</strong></td>
-    <td>Machine Learning · Analisis de datos · n8n · ChatGPT · GitHub Copilot</td>
-  </tr>
-  <tr>
-    <td><strong>Infraestructura y herramientas</strong></td>
-    <td>Docker · Git/GitHub · PostgreSQL · MongoDB · Redis · Postman</td>
-  </tr>
-</table>
+### Animated icons
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" />
+</p>
+
+### Extra stack badges (Simple Icons)
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose98br&show_icons=true&theme=transparent&locale=es" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose98br&layout=compact&theme=transparent&langs_count=8" alt="Top languages" />
+</p>
+
+> Nota: las tarjetas de stats son best-effort en la instancia publica y pueden tener ratelimit puntual.
 
 ---
 
@@ -90,3 +113,8 @@ Funciones principales:
 - LinkedIn: https://www.linkedin.com/in/jose-manuel-benitez-ruiz/
 - Email: josemanuelbenitezruiz14@gmail.com
 - Portfolio: https://jose98br.github.io/porfolio/
+
+<!-- Opcional: WakaTime stats (solo si conectas WakaTime + action)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_WAKATIME)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
