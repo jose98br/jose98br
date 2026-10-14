@@ -181,12 +181,7 @@ Bot que cada mañana envia a Telegram, de forma automatica, el resumen de futbol
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose98br&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose98br&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=jose98br&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Jose98br&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 <!-- Serpiente que se come tus contribuciones (la genera el workflow .github/workflows/snake.yml) -->
