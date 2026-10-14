@@ -1,10 +1,10 @@
 <!-- Cabecera animada -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Jose%20Manuel%20Benitez%20Ruiz&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Full%20Stack%20%7C%20Data%20Science%20%26%20IA&descAlignY=58&descSize=18&color=0:0f766e,100:1f2937&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Jose%20Manuel%20Benitez%20Ruiz&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Full%20Stack%20%7C%20Data%20Science%20y%20IA&descAlignY=58&descSize=18&color=0:0f766e,100:1f2937&animation=twinkling)
 
 <!-- Texto que se escribe solo -->
 <p align="center">
   <a href="https://jugaly.es">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=Hola!+Soy+Jose+Manuel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Creador+de+Jugaly+%F0%9F%8E%AE+jugaly.es;Data+Science+%26+IA+con+Python+%F0%9F%A4%96;Automatizaciones+con+n8n+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=Hola!+Soy+Jose+Manuel+%F0%9F%91%8B;Software+Engineer+en+VUMI+%F0%9F%92%BC;Full+Stack+Developer+%7C+React+%2B+Node.js;Creador+de+Jugaly+%F0%9F%8E%AE+jugaly.es;Data+Science+%26+IA+con+Python+%F0%9F%A4%96;Automatizaciones+con+n8n+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jose98br&label=Visitas+al+perfil&color=0f766e&style=flat" alt="Visitas al perfil" />
-  <img src="https://img.shields.io/badge/Open_to_Work-Si-22c55e?style=flat" alt="Open to Work" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jose98br.jose98br&left_text=Visitas%20al%20perfil&left_color=%231f2937&right_color=%230f766e" alt="Visitas al perfil" />
 </p>
 
 ---
@@ -29,14 +28,14 @@
 ```python
 class JoseManuel:
     ubicacion = "Palma del Rio, Cordoba, Spain"
-    rol = "Python Developer | Full Stack"
+    rol = "Software Engineer @ VUMI"
     estudiando = "Master en Data Science & Desarrollo de IA - Evolve Academy"
     proyecto_actual = "Jugaly -> https://jugaly.es"
     me_interesa = ["Desarrollo web/full stack", "Automatizacion", "IA aplicada"]
-    open_to_work = True
 ```
 
 - 🌱 Desarrollador con experiencia en Python, desarrollo web y movil, automatizacion de procesos con n8n y APIs REST.
+- 💼 Software Engineer en **[VUMI](https://www.vumi.io)**, software de consolidacion patrimonial para Family Offices.
 - 🎮 Ahora mismo construyendo **[Jugaly](https://jugaly.es)**, mi plataforma de juegos web.
 - 📫 Hablamos en [LinkedIn](https://www.linkedin.com/in/jose-manuel-benitez-ruiz/) o por [email](mailto:josemanuelbenitezruiz14@gmail.com).
 
@@ -68,6 +67,30 @@ Plataforma de juegos para el navegador, sin descargas, pensada para partidas cor
 
 ---
 
+### 🏦 Banklog-IA - Diagnostico de fallos con IA (TFM)
+
+<p>
+  <img src="https://img.shields.io/badge/TFM-Master_Data_Science_y_IA-0f766e?style=flat-square" alt="TFM" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,aws,react,vite,tailwind" alt="Stack de Banklog-IA" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+</p>
+
+Sistema hibrido de **ML + IA Generativa** que diagnostica automaticamente por que fallan las conexiones bancarias a partir de sus logs, para sustituir una revision manual que no escala.
+
+- 🔎 **NER con spaCy** que extrae la informacion clave de cada log (entidad, modulo, fecha y codigo de error)
+- 🌲 **Clasificador Random Forest** del tipo de fallo (login, timeout, captcha, cambio de HTML, mantenimiento...) con reentrenamiento y proteccion anti-regresion
+- 📈 **Ranking de gravedad** transparente para priorizar las incidencias activas
+- 🧠 **Explicacion con Claude + contexto RAG**: propone causa raiz y solucion en lenguaje natural
+- 💬 **Chatbot** con tool use de la API de Anthropic para consultar el estado de las incidencias
+- 🗂️ Pipeline de datos por capas (raw / processed / gold) con anonimizacion, Pandas, DuckDB y Parquet
+- 🖥️ Panel web en React + Vite y API en FastAPI; IA configurable (Claude, Ollama local o stub sin coste)
+
+---
+
 ### ⏱️ Laboro - Control de horas
 
 <p>
@@ -91,21 +114,20 @@ App gratuita para registrar jornadas por horas y calcular el cobro mensual. Func
 
 ---
 
-### 🤖 Bot de Telegram
+### 🤖 Sports Bot - Resumen deportivo diario en Telegram
 
-<!-- TODO: completar con el nombre, enlace al repo y stack reales -->
 <p>
-  <img src="https://skillicons.dev/icons?i=py" alt="Stack del bot" />
+  <img src="https://skillicons.dev/icons?i=py,githubactions" alt="Stack del bot" />
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
-**Repo:** https://github.com/jose98br/NOMBRE-DEL-REPO
+Bot que cada mañana envia a Telegram, de forma automatica, el resumen de futbol del dia y las noticias mas relevantes. Corre sin servidor: lo programa un cron de **GitHub Actions**.
 
-Descripcion breve de lo que hace el bot.
-
-- Funcion 1
-- Funcion 2
-- Funcion 3
+- ⚽ Partidos del dia y proximas jornadas de LaLiga, Premier, Champions, Europa League, Bundesliga, Serie A y Ligue 1 (API de football-data.org)
+- 🕖 Horarios convertidos a hora de España y fechas en español
+- 📰 Noticias de futbol desde Google News RSS, ordenadas por prioridad (futbol español, polemica, resultados) y sin duplicados
+- ⏰ Dos envios diarios automaticos (07:00 resumen y 07:05 noticias) y lanzamiento manual desde Actions
+- 🔐 Tokens y claves guardados como secretos, nunca en el codigo
 
 ---
 
@@ -123,7 +145,7 @@ Descripcion breve de lo que hace el bot.
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,prisma" alt="Backend" /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,django,flask,prisma" alt="Backend" /><br />
       <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify" />
     </td>
   </tr>
@@ -138,12 +160,17 @@ Descripcion breve de lo que hace el bot.
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white" alt="spaCy" />
+      <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude API" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps y herramientas</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman,vscode,linux" alt="Herramientas" /><br />
+      <img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,git,github,postman,vscode,linux" alt="Herramientas" /><br />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
     </td>
   </tr>
@@ -154,12 +181,12 @@ Descripcion breve de lo que hace el bot.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose98br&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose98br&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose98br&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose98br&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=jose98br&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=jose98br&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 <!-- Serpiente que se come tus contribuciones (la genera el workflow .github/workflows/snake.yml) -->
@@ -175,7 +202,22 @@ Descripcion breve de lo que hace el bot.
 
 ## 💼 Experiencia
 
-- **Desarrollador Web y App + Automatizaciones** — AppyWeb (Feb 2025 - Ago 2025)
+<table>
+  <tr>
+    <td width="90" align="center"><a href="https://www.vumi.io"><img src="https://www.vumi.io/icon.png" alt="VUMI" width="64" /></a></td>
+    <td>
+      <b>Software Engineer</b> · <a href="https://www.vumi.io">VUMI</a><br />
+      <sub>May 2026 - Actualidad</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center">💻</td>
+    <td>
+      <b>Desarrollador Web y App + Automatizaciones</b> · AppyWeb<br />
+      <sub>Feb 2025 - Ago 2025</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
